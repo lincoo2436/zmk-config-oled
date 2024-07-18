@@ -1,7 +1,7 @@
-if SHIELD_ALIXW
+if SHIELD_CORNE
 
 config ZMK_KEYBOARD_NAME
-    default "alixw"
+    default "lincoo_corne"
 
 if ZMK_DISPLAY
 
