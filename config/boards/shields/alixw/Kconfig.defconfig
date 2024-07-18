@@ -1,7 +1,7 @@
 if SHIELD_CORNE
 
 config ZMK_KEYBOARD_NAME
-    default "lincoo_corne"
+    default "corne"
 
 if ZMK_DISPLAY
 
